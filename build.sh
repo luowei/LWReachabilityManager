@@ -1,5 +1,5 @@
 # 指定打包的scheme
-SCHEME="LWProgressView"
+SCHEME="LWReachabilityManager"
 # 指定打包的workspace文件
 WORKSPACE="./Example/${SCHEME}.xcworkspace"
 echo '================== Build Framework =================='
