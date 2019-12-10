@@ -1,5 +1,5 @@
 PODS:
-  - LWReachabilityManager (0.1.0)
+  - LWReachabilityManager (1.0.0)
 
 DEPENDENCIES:
   - LWReachabilityManager (from `../`)
@@ -9,8 +9,8 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  LWReachabilityManager: 0283f71e4a659a14be548e4520054f8d49f051a3
+  LWReachabilityManager: 11b55e6ec60d76c1e144f26d5541e827e59f124a
 
 PODFILE CHECKSUM: f2d4f14d4e4d83a8bdaaf98ff28d7be4c6426b7c
 
-COCOAPODS: 1.8.3
+COCOAPODS: 1.8.4

@@ -1,9 +1,9 @@
 {
   "name": "LWReachabilityManager",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "summary": "A short description of LWReachabilityManager.",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/luowei/LWReachabilityManager",
+  "homepage": "https://gitlab.com/ioslibraries1/lwreachabilitymanager.git",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,8 +12,7 @@
     "luowei": "luowei@wodedata.com"
   },
   "source": {
-    "git": "https://github.com/luowei/LWReachabilityManager.git",
-    "tag": "0.1.0"
+    "git": "https://gitlab.com/ioslibraries1/lwreachabilitymanager.git"
   },
   "platforms": {
     "ios": "8.0"
