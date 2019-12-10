@@ -39,7 +39,7 @@
 /* Begin PBXFileReference section */
 		04E192241F3EAD2C9EFE6B9E /* Pods_LWReachabilityManager_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_LWReachabilityManager_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		330EC622CA8B0F602BF91923 /* Pods-LWReachabilityManager_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LWReachabilityManager_Tests.debug.xcconfig"; path = "Target Support Files/Pods-LWReachabilityManager_Tests/Pods-LWReachabilityManager_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		50F4AEBDF03CF81EFF9F5A9F /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		50F4AEBDF03CF81EFF9F5A9F /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		6003F58A195388D20070C39A /* LWReachabilityManager_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LWReachabilityManager_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6003F58D195388D20070C39A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		6003F58F195388D20070C39A /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -65,8 +65,8 @@
 		8DB46B85633020CE9E5FDC6B /* Pods_LWReachabilityManager_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_LWReachabilityManager_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		9E021A7EB18266C079BC275C /* Pods-LWReachabilityManager_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LWReachabilityManager_Example.release.xcconfig"; path = "Target Support Files/Pods-LWReachabilityManager_Example/Pods-LWReachabilityManager_Example.release.xcconfig"; sourceTree = "<group>"; };
 		C846EA680D06E696896C5C7C /* Pods-LWReachabilityManager_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LWReachabilityManager_Tests.release.xcconfig"; path = "Target Support Files/Pods-LWReachabilityManager_Tests/Pods-LWReachabilityManager_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		F9C1AF333DA27A22AD0AABF3 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
-		FE836C80C855E4F81377DF86 /* LWReachabilityManager.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = LWReachabilityManager.podspec; path = ../LWReachabilityManager.podspec; sourceTree = "<group>"; };
+		F9C1AF333DA27A22AD0AABF3 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		FE836C80C855E4F81377DF86 /* LWReachabilityManager.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LWReachabilityManager.podspec; path = ../LWReachabilityManager.podspec; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -193,7 +193,6 @@
 				330EC622CA8B0F602BF91923 /* Pods-LWReachabilityManager_Tests.debug.xcconfig */,
 				C846EA680D06E696896C5C7C /* Pods-LWReachabilityManager_Tests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -208,7 +207,7 @@
 				6003F586195388D20070C39A /* Sources */,
 				6003F587195388D20070C39A /* Frameworks */,
 				6003F588195388D20070C39A /* Resources */,
-				405B5FE114528E09FA268A05 /* [CP] Embed Pods Frameworks */,
+				5433D0888D3C9C356CDB97AB /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -248,6 +247,9 @@
 				LastUpgradeCheck = 0720;
 				ORGANIZATIONNAME = luowei;
 				TargetAttributes = {
+					6003F589195388D20070C39A = {
+						DevelopmentTeam = G3A2KYKYBU;
+					};
 					6003F5AD195388D20070C39A = {
 						TestTargetID = 6003F589195388D20070C39A;
 					};
@@ -258,6 +260,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
@@ -295,24 +298,6 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
-		405B5FE114528E09FA268A05 /* [CP] Embed Pods Frameworks */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-LWReachabilityManager_Example/Pods-LWReachabilityManager_Example-frameworks.sh",
-				"${BUILT_PRODUCTS_DIR}/LWReachabilityManager/LWReachabilityManager.framework",
-			);
-			name = "[CP] Embed Pods Frameworks";
-			outputPaths = (
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/LWReachabilityManager.framework",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-LWReachabilityManager_Example/Pods-LWReachabilityManager_Example-frameworks.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
 		4BB88AD7447031AE661DB120 /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
@@ -333,6 +318,24 @@
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
 			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		5433D0888D3C9C356CDB97AB /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-LWReachabilityManager_Example/Pods-LWReachabilityManager_Example-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/LWReachabilityManager/LWReachabilityManager.framework",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/LWReachabilityManager.framework",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-LWReachabilityManager_Example/Pods-LWReachabilityManager_Example-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		5D099155D4678ABDC24B6DA4 /* [CP] Check Pods Manifest.lock */ = {
@@ -494,11 +497,12 @@
 			baseConfigurationReference = 8432B72CF99BDDF759912FC0 /* Pods-LWReachabilityManager_Example.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = G3A2KYKYBU;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "LWReachabilityManager/LWReachabilityManager-Prefix.pch";
 				INFOPLIST_FILE = "LWReachabilityManager/LWReachabilityManager-Info.plist";
 				MODULE_NAME = ExampleApp;
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.demo.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.wodedata.LWReachabilityManager-Example";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				WRAPPER_EXTENSION = app;
@@ -510,11 +514,12 @@
 			baseConfigurationReference = 9E021A7EB18266C079BC275C /* Pods-LWReachabilityManager_Example.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = G3A2KYKYBU;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "LWReachabilityManager/LWReachabilityManager-Prefix.pch";
 				INFOPLIST_FILE = "LWReachabilityManager/LWReachabilityManager-Info.plist";
 				MODULE_NAME = ExampleApp;
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.demo.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.wodedata.LWReachabilityManager-Example";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				WRAPPER_EXTENSION = app;
