@@ -20,6 +20,11 @@ it, simply add the following line to your Podfile:
 pod 'LWReachabilityManager'
 ```
 
+**Carthage**
+```ruby
+github "luowei/LWReachabilityManager"
+```
+
 ## Author
 
 luowei, luowei@wodedata.com
