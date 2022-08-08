@@ -9,6 +9,18 @@
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
+```Objective-C
+//monitor network status
+__weak typeof(self) weakSelf = self;
+[[LWNetworkReachabilityManager sharedManager] setReachabilityStatusChangeBlock:^(LWNetworkReachabilityStatus status) {
+    weakSelf.networkReachabilityStatus = status;
+}];
+[[LWNetworkReachabilityManager sharedManager] startMonitoring];
+
+
+BOOL isReachable = [[LWNetworkReachabilityManager sharedManager] isReachable];
+```
+
 ## Requirements
 
 ## Installation
