@@ -69,6 +69,14 @@ LWReachabilityManager is available through [CocoaPods](https://cocoapods.org). T
 pod 'LWReachabilityManager'
 ```
 
+For Swift version, use:
+
+```ruby
+pod 'LWReachabilityManager_swift'
+```
+
+See [Swift Version Documentation](README_SWIFT_VERSION.md) for more details.
+
 Then run:
 
 ```bash
