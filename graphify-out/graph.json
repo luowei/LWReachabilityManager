@@ -1,0 +1,1760 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "label": "Package.swift",
+      "file_type": "code",
+      "source_file": "Package.swift",
+      "source_location": "L1",
+      "id": "package_swift",
+      "community": 9,
+      "norm_label": "package.swift"
+    },
+    {
+      "label": "Tests.m",
+      "file_type": "code",
+      "source_file": "Example/Tests/Tests.m",
+      "source_location": "L1",
+      "id": "example_tests_tests_m",
+      "community": 7,
+      "norm_label": "tests.m"
+    },
+    {
+      "label": "Tests",
+      "file_type": "code",
+      "source_file": "Example/Tests/Tests.m",
+      "source_location": "L11",
+      "id": "tests_tests_tests",
+      "community": 7,
+      "norm_label": "tests"
+    },
+    {
+      "label": "-setUp",
+      "file_type": "code",
+      "source_file": "Example/Tests/Tests.m",
+      "source_location": "L17",
+      "id": "tests_tests_tests_setup",
+      "community": 7,
+      "norm_label": "-setup"
+    },
+    {
+      "label": "-tearDown",
+      "file_type": "code",
+      "source_file": "Example/Tests/Tests.m",
+      "source_location": "L23",
+      "id": "tests_tests_tests_teardown",
+      "community": 7,
+      "norm_label": "-teardown"
+    },
+    {
+      "label": "-testExample",
+      "file_type": "code",
+      "source_file": "Example/Tests/Tests.m",
+      "source_location": "L29",
+      "id": "tests_tests_tests_testexample",
+      "community": 7,
+      "norm_label": "-testexample"
+    },
+    {
+      "label": "LWViewController.h",
+      "file_type": "code",
+      "source_file": "Example/LWReachabilityManager/LWViewController.h",
+      "source_location": "L1",
+      "id": "example_lwreachabilitymanager_lwviewcontroller_h",
+      "community": 10,
+      "norm_label": "lwviewcontroller.h"
+    },
+    {
+      "label": "LWAppDelegate.h",
+      "file_type": "code",
+      "source_file": "Example/LWReachabilityManager/LWAppDelegate.h",
+      "source_location": "L1",
+      "id": "example_lwreachabilitymanager_lwappdelegate_h",
+      "community": 11,
+      "norm_label": "lwappdelegate.h"
+    },
+    {
+      "label": "main.m",
+      "file_type": "code",
+      "source_file": "Example/LWReachabilityManager/main.m",
+      "source_location": "L1",
+      "id": "example_lwreachabilitymanager_main_m",
+      "community": 12,
+      "norm_label": "main.m"
+    },
+    {
+      "label": "LWAppDelegate.m",
+      "file_type": "code",
+      "source_file": "Example/LWReachabilityManager/LWAppDelegate.m",
+      "source_location": "L1",
+      "id": "example_lwreachabilitymanager_lwappdelegate_m",
+      "community": 4,
+      "norm_label": "lwappdelegate.m"
+    },
+    {
+      "label": "LWAppDelegate",
+      "file_type": "code",
+      "source_file": "Example/LWReachabilityManager/LWAppDelegate.m",
+      "source_location": "L11",
+      "id": "lwreachabilitymanager_lwappdelegate_lwappdelegate",
+      "community": 4,
+      "norm_label": "lwappdelegate"
+    },
+    {
+      "label": "-applicationdidFinishLaunchingWithOptions",
+      "file_type": "code",
+      "source_file": "Example/LWReachabilityManager/LWAppDelegate.m",
+      "source_location": "L13",
+      "id": "lwreachabilitymanager_lwappdelegate_lwappdelegate_applicationdidfinishlaunchingwithoptions",
+      "community": 4,
+      "norm_label": "-applicationdidfinishlaunchingwithoptions"
+    },
+    {
+      "label": "-applicationWillResignActive",
+      "file_type": "code",
+      "source_file": "Example/LWReachabilityManager/LWAppDelegate.m",
+      "source_location": "L19",
+      "id": "lwreachabilitymanager_lwappdelegate_lwappdelegate_applicationwillresignactive",
+      "community": 4,
+      "norm_label": "-applicationwillresignactive"
+    },
+    {
+      "label": "-applicationDidEnterBackground",
+      "file_type": "code",
+      "source_file": "Example/LWReachabilityManager/LWAppDelegate.m",
+      "source_location": "L25",
+      "id": "lwreachabilitymanager_lwappdelegate_lwappdelegate_applicationdidenterbackground",
+      "community": 4,
+      "norm_label": "-applicationdidenterbackground"
+    },
+    {
+      "label": "-applicationWillEnterForeground",
+      "file_type": "code",
+      "source_file": "Example/LWReachabilityManager/LWAppDelegate.m",
+      "source_location": "L31",
+      "id": "lwreachabilitymanager_lwappdelegate_lwappdelegate_applicationwillenterforeground",
+      "community": 4,
+      "norm_label": "-applicationwillenterforeground"
+    },
+    {
+      "label": "-applicationDidBecomeActive",
+      "file_type": "code",
+      "source_file": "Example/LWReachabilityManager/LWAppDelegate.m",
+      "source_location": "L36",
+      "id": "lwreachabilitymanager_lwappdelegate_lwappdelegate_applicationdidbecomeactive",
+      "community": 4,
+      "norm_label": "-applicationdidbecomeactive"
+    },
+    {
+      "label": "-applicationWillTerminate",
+      "file_type": "code",
+      "source_file": "Example/LWReachabilityManager/LWAppDelegate.m",
+      "source_location": "L41",
+      "id": "lwreachabilitymanager_lwappdelegate_lwappdelegate_applicationwillterminate",
+      "community": 4,
+      "norm_label": "-applicationwillterminate"
+    },
+    {
+      "label": "LWViewController.m",
+      "file_type": "code",
+      "source_file": "Example/LWReachabilityManager/LWViewController.m",
+      "source_location": "L1",
+      "id": "example_lwreachabilitymanager_lwviewcontroller_m",
+      "community": 8,
+      "norm_label": "lwviewcontroller.m"
+    },
+    {
+      "label": "LWViewController",
+      "file_type": "code",
+      "source_file": "Example/LWReachabilityManager/LWViewController.m",
+      "source_location": "L11",
+      "id": "lwreachabilitymanager_lwviewcontroller_lwviewcontroller",
+      "community": 8,
+      "norm_label": "lwviewcontroller"
+    },
+    {
+      "label": "-viewDidLoad",
+      "file_type": "code",
+      "source_file": "Example/LWReachabilityManager/LWViewController.m",
+      "source_location": "L17",
+      "id": "lwreachabilitymanager_lwviewcontroller_lwviewcontroller_viewdidload",
+      "community": 8,
+      "norm_label": "-viewdidload"
+    },
+    {
+      "label": "-didReceiveMemoryWarning",
+      "file_type": "code",
+      "source_file": "Example/LWReachabilityManager/LWViewController.m",
+      "source_location": "L23",
+      "id": "lwreachabilitymanager_lwviewcontroller_lwviewcontroller_didreceivememorywarning",
+      "community": 8,
+      "norm_label": "-didreceivememorywarning"
+    },
+    {
+      "label": "LWNetworkReachabilityManager.m",
+      "file_type": "code",
+      "source_file": "LWReachabilityManager/Classes/LWNetworkReachabilityManager.m",
+      "source_location": "L1",
+      "id": "lwreachabilitymanager_classes_lwnetworkreachabilitymanager_m",
+      "community": 0,
+      "norm_label": "lwnetworkreachabilitymanager.m"
+    },
+    {
+      "label": "LWNetworkReachabilityManager",
+      "file_type": "code",
+      "source_file": "LWReachabilityManager_swift/Classes/LWNetworkReachabilityManager.swift",
+      "source_location": "L65",
+      "id": "classes_lwnetworkreachabilitymanager_lwnetworkreachabilitymanager",
+      "community": 0,
+      "norm_label": "lwnetworkreachabilitymanager"
+    },
+    {
+      "label": "-sharedManager",
+      "file_type": "code",
+      "source_file": "LWReachabilityManager/Classes/LWNetworkReachabilityManager.m",
+      "source_location": "L115",
+      "id": "classes_lwnetworkreachabilitymanager_lwnetworkreachabilitymanager_sharedmanager",
+      "community": 0,
+      "norm_label": "-sharedmanager"
+    },
+    {
+      "label": "-managerForDomain",
+      "file_type": "code",
+      "source_file": "LWReachabilityManager/Classes/LWNetworkReachabilityManager.m",
+      "source_location": "L125",
+      "id": "classes_lwnetworkreachabilitymanager_lwnetworkreachabilitymanager_managerfordomain",
+      "community": 0,
+      "norm_label": "-managerfordomain"
+    },
+    {
+      "label": "-managerForAddress",
+      "file_type": "code",
+      "source_file": "LWReachabilityManager/Classes/LWNetworkReachabilityManager.m",
+      "source_location": "L135",
+      "id": "classes_lwnetworkreachabilitymanager_lwnetworkreachabilitymanager_managerforaddress",
+      "community": 0,
+      "norm_label": "-managerforaddress"
+    },
+    {
+      "label": "-manager",
+      "file_type": "code",
+      "source_file": "LWReachabilityManager/Classes/LWNetworkReachabilityManager.m",
+      "source_location": "L144",
+      "id": "classes_lwnetworkreachabilitymanager_lwnetworkreachabilitymanager_manager",
+      "community": 0,
+      "norm_label": "-manager"
+    },
+    {
+      "label": "-initWithReachability",
+      "file_type": "code",
+      "source_file": "LWReachabilityManager/Classes/LWNetworkReachabilityManager.m",
+      "source_location": "L160",
+      "id": "classes_lwnetworkreachabilitymanager_lwnetworkreachabilitymanager_initwithreachability",
+      "community": 0,
+      "norm_label": "-initwithreachability"
+    },
+    {
+      "label": ".init()",
+      "file_type": "code",
+      "source_file": "LWReachabilityManager_swift/Classes/LWNetworkReachabilityManager.swift",
+      "source_location": "L104",
+      "id": "classes_lwnetworkreachabilitymanager_lwnetworkreachabilitymanager_init",
+      "community": 0,
+      "norm_label": ".init()"
+    },
+    {
+      "label": "-dealloc",
+      "file_type": "code",
+      "source_file": "LWReachabilityManager/Classes/LWNetworkReachabilityManager.m",
+      "source_location": "L177",
+      "id": "classes_lwnetworkreachabilitymanager_lwnetworkreachabilitymanager_dealloc",
+      "community": 0,
+      "norm_label": "-dealloc"
+    },
+    {
+      "label": "-isReachable",
+      "file_type": "code",
+      "source_file": "LWReachabilityManager/Classes/LWNetworkReachabilityManager.m",
+      "source_location": "L187",
+      "id": "classes_lwnetworkreachabilitymanager_lwnetworkreachabilitymanager_isreachable",
+      "community": 0,
+      "norm_label": "-isreachable"
+    },
+    {
+      "label": "-isReachableViaWWAN",
+      "file_type": "code",
+      "source_file": "LWReachabilityManager/Classes/LWNetworkReachabilityManager.m",
+      "source_location": "L191",
+      "id": "classes_lwnetworkreachabilitymanager_lwnetworkreachabilitymanager_isreachableviawwan",
+      "community": 0,
+      "norm_label": "-isreachableviawwan"
+    },
+    {
+      "label": "-isReachableViaWiFi",
+      "file_type": "code",
+      "source_file": "LWReachabilityManager/Classes/LWNetworkReachabilityManager.m",
+      "source_location": "L195",
+      "id": "classes_lwnetworkreachabilitymanager_lwnetworkreachabilitymanager_isreachableviawifi",
+      "community": 0,
+      "norm_label": "-isreachableviawifi"
+    },
+    {
+      "label": ".startMonitoring()",
+      "file_type": "code",
+      "source_file": "LWReachabilityManager_swift/Classes/LWNetworkReachabilityManager.swift",
+      "source_location": "L176",
+      "id": "classes_lwnetworkreachabilitymanager_lwnetworkreachabilitymanager_startmonitoring",
+      "community": 0,
+      "norm_label": ".startmonitoring()"
+    },
+    {
+      "label": ".stopMonitoring()",
+      "file_type": "code",
+      "source_file": "LWReachabilityManager_swift/Classes/LWNetworkReachabilityManager.swift",
+      "source_location": "L217",
+      "id": "classes_lwnetworkreachabilitymanager_lwnetworkreachabilitymanager_stopmonitoring",
+      "community": 0,
+      "norm_label": ".stopmonitoring()"
+    },
+    {
+      "label": ".localizedNetworkReachabilityStatusString()",
+      "file_type": "code",
+      "source_file": "LWReachabilityManager_swift/Classes/LWNetworkReachabilityManager.swift",
+      "source_location": "L233",
+      "id": "classes_lwnetworkreachabilitymanager_lwnetworkreachabilitymanager_localizednetworkreachabilitystatusstring",
+      "community": 0,
+      "norm_label": ".localizednetworkreachabilitystatusstring()"
+    },
+    {
+      "label": ".setReachabilityStatusChangeBlock()",
+      "file_type": "code",
+      "source_file": "LWReachabilityManager_swift/Classes/LWNetworkReachabilityManager.swift",
+      "source_location": "L226",
+      "id": "classes_lwnetworkreachabilitymanager_lwnetworkreachabilitymanager_setreachabilitystatuschangeblock",
+      "community": 0,
+      "norm_label": ".setreachabilitystatuschangeblock()"
+    },
+    {
+      "label": "-keyPathsForValuesAffectingValueForKey",
+      "file_type": "code",
+      "source_file": "LWReachabilityManager/Classes/LWNetworkReachabilityManager.m",
+      "source_location": "L253",
+      "id": "classes_lwnetworkreachabilitymanager_lwnetworkreachabilitymanager_keypathsforvaluesaffectingvalueforkey",
+      "community": 0,
+      "norm_label": "-keypathsforvaluesaffectingvalueforkey"
+    },
+    {
+      "label": "LWNetworkReachabilityManager.h",
+      "file_type": "code",
+      "source_file": "LWReachabilityManager/Classes/LWNetworkReachabilityManager.h",
+      "source_location": "L1",
+      "id": "lwreachabilitymanager_classes_lwnetworkreachabilitymanager_h",
+      "community": 13,
+      "norm_label": "lwnetworkreachabilitymanager.h"
+    },
+    {
+      "label": "NetworkReachabilityObserver.swift",
+      "file_type": "code",
+      "source_file": "LWReachabilityManager_swift/Classes/NetworkReachabilityObserver.swift",
+      "source_location": "L1",
+      "id": "lwreachabilitymanager_swift_classes_networkreachabilityobserver_swift",
+      "community": 1,
+      "norm_label": "networkreachabilityobserver.swift"
+    },
+    {
+      "label": "NetworkReachabilityObserver",
+      "file_type": "code",
+      "source_file": "LWReachabilityManager_swift/Classes/NetworkReachabilityObserver.swift",
+      "source_location": "L49",
+      "id": "classes_networkreachabilityobserver_networkreachabilityobserver",
+      "community": 1,
+      "norm_label": "networkreachabilityobserver"
+    },
+    {
+      "label": "ObservableObject",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "id": "observableobject",
+      "community": 1,
+      "norm_label": "observableobject"
+    },
+    {
+      "label": ".init()",
+      "file_type": "code",
+      "source_file": "LWReachabilityManager_swift/Classes/NetworkReachabilityObserver.swift",
+      "source_location": "L82",
+      "id": "classes_networkreachabilityobserver_networkreachabilityobserver_init",
+      "community": 1,
+      "norm_label": ".init()"
+    },
+    {
+      "label": ".setupBindings()",
+      "file_type": "code",
+      "source_file": "LWReachabilityManager_swift/Classes/NetworkReachabilityObserver.swift",
+      "source_location": "L112",
+      "id": "classes_networkreachabilityobserver_networkreachabilityobserver_setupbindings",
+      "community": 1,
+      "norm_label": ".setupbindings()"
+    },
+    {
+      "label": ".startMonitoring()",
+      "file_type": "code",
+      "source_file": "LWReachabilityManager_swift/Classes/NetworkReachabilityObserver.swift",
+      "source_location": "L144",
+      "id": "classes_networkreachabilityobserver_networkreachabilityobserver_startmonitoring",
+      "community": 1,
+      "norm_label": ".startmonitoring()"
+    },
+    {
+      "label": ".stopMonitoring()",
+      "file_type": "code",
+      "source_file": "LWReachabilityManager_swift/Classes/NetworkReachabilityObserver.swift",
+      "source_location": "L149",
+      "id": "classes_networkreachabilityobserver_networkreachabilityobserver_stopmonitoring",
+      "community": 1,
+      "norm_label": ".stopmonitoring()"
+    },
+    {
+      "label": ".localizedStatusString()",
+      "file_type": "code",
+      "source_file": "LWReachabilityManager_swift/Classes/NetworkReachabilityObserver.swift",
+      "source_location": "L156",
+      "id": "classes_networkreachabilityobserver_networkreachabilityobserver_localizedstatusstring",
+      "community": 1,
+      "norm_label": ".localizedstatusstring()"
+    },
+    {
+      "label": "NetworkReachabilityView.swift",
+      "file_type": "code",
+      "source_file": "LWReachabilityManager_swift/Classes/NetworkReachabilityView.swift",
+      "source_location": "L1",
+      "id": "lwreachabilitymanager_swift_classes_networkreachabilityview_swift",
+      "community": 2,
+      "norm_label": "networkreachabilityview.swift"
+    },
+    {
+      "label": "NetworkReachabilityModifier",
+      "file_type": "code",
+      "source_file": "LWReachabilityManager_swift/Classes/NetworkReachabilityView.swift",
+      "source_location": "L36",
+      "id": "classes_networkreachabilityview_networkreachabilitymodifier",
+      "community": 2,
+      "norm_label": "networkreachabilitymodifier"
+    },
+    {
+      "label": "ViewModifier",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "id": "viewmodifier",
+      "community": 2,
+      "norm_label": "viewmodifier"
+    },
+    {
+      "label": ".body()",
+      "file_type": "code",
+      "source_file": "LWReachabilityManager_swift/Classes/NetworkReachabilityView.swift",
+      "source_location": "L41",
+      "id": "classes_networkreachabilityview_networkreachabilitymodifier_body",
+      "community": 2,
+      "norm_label": ".body()"
+    },
+    {
+      "label": "View",
+      "file_type": "code",
+      "source_file": "LWReachabilityManager_swift/Classes/NetworkReachabilityView.swift",
+      "source_location": "L55",
+      "id": "classes_networkreachabilityview_view",
+      "community": 2,
+      "norm_label": "view"
+    },
+    {
+      "label": ".onNetworkReachabilityChange()",
+      "file_type": "code",
+      "source_file": "LWReachabilityManager_swift/Classes/NetworkReachabilityView.swift",
+      "source_location": "L61",
+      "id": "classes_networkreachabilityview_view_onnetworkreachabilitychange",
+      "community": 2,
+      "norm_label": ".onnetworkreachabilitychange()"
+    },
+    {
+      "label": "NetworkReachabilityStatusView",
+      "file_type": "code",
+      "source_file": "LWReachabilityManager_swift/Classes/NetworkReachabilityView.swift",
+      "source_location": "L70",
+      "id": "classes_networkreachabilityview_networkreachabilitystatusview",
+      "community": 2,
+      "norm_label": "networkreachabilitystatusview"
+    },
+    {
+      "label": ".init()",
+      "file_type": "code",
+      "source_file": "LWReachabilityManager_swift/Classes/NetworkReachabilityView.swift",
+      "source_location": "L74",
+      "id": "classes_networkreachabilityview_networkreachabilitystatusview_init",
+      "community": 2,
+      "norm_label": ".init()"
+    },
+    {
+      "label": "DetailRow",
+      "file_type": "code",
+      "source_file": "LWReachabilityManager_swift/Classes/NetworkReachabilityView.swift",
+      "source_location": "L134",
+      "id": "classes_networkreachabilityview_detailrow",
+      "community": 2,
+      "norm_label": "detailrow"
+    },
+    {
+      "label": "NetworkReachabilityStatusView_Previews",
+      "file_type": "code",
+      "source_file": "LWReachabilityManager_swift/Classes/NetworkReachabilityView.swift",
+      "source_location": "L152",
+      "id": "classes_networkreachabilityview_networkreachabilitystatusview_previews",
+      "community": 2,
+      "norm_label": "networkreachabilitystatusview_previews"
+    },
+    {
+      "label": "PreviewProvider",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "id": "previewprovider",
+      "community": 2,
+      "norm_label": "previewprovider"
+    },
+    {
+      "label": "LWNetworkReachabilityManager.swift",
+      "file_type": "code",
+      "source_file": "LWReachabilityManager_swift/Classes/LWNetworkReachabilityManager.swift",
+      "source_location": "L1",
+      "id": "lwreachabilitymanager_swift_classes_lwnetworkreachabilitymanager_swift",
+      "community": 5,
+      "norm_label": "lwnetworkreachabilitymanager.swift"
+    },
+    {
+      "label": "NetworkReachabilityStatus",
+      "file_type": "code",
+      "source_file": "LWReachabilityManager_swift/Classes/LWNetworkReachabilityManager.swift",
+      "source_location": "L28",
+      "id": "classes_lwnetworkreachabilitymanager_networkreachabilitystatus",
+      "community": 5,
+      "norm_label": "networkreachabilitystatus"
+    },
+    {
+      "label": "Int",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "id": "int",
+      "community": 5,
+      "norm_label": "int"
+    },
+    {
+      "label": "unknown",
+      "file_type": "code",
+      "source_file": "LWReachabilityManager_swift/Classes/LWNetworkReachabilityManager.swift",
+      "source_location": "L29",
+      "id": "classes_lwnetworkreachabilitymanager_networkreachabilitystatus_unknown",
+      "community": 5,
+      "norm_label": "unknown"
+    },
+    {
+      "label": "notReachable",
+      "file_type": "code",
+      "source_file": "LWReachabilityManager_swift/Classes/LWNetworkReachabilityManager.swift",
+      "source_location": "L30",
+      "id": "classes_lwnetworkreachabilitymanager_networkreachabilitystatus_notreachable",
+      "community": 5,
+      "norm_label": "notreachable"
+    },
+    {
+      "label": "reachableViaWWAN",
+      "file_type": "code",
+      "source_file": "LWReachabilityManager_swift/Classes/LWNetworkReachabilityManager.swift",
+      "source_location": "L31",
+      "id": "classes_lwnetworkreachabilitymanager_networkreachabilitystatus_reachableviawwan",
+      "community": 5,
+      "norm_label": "reachableviawwan"
+    },
+    {
+      "label": "reachableViaWiFi",
+      "file_type": "code",
+      "source_file": "LWReachabilityManager_swift/Classes/LWNetworkReachabilityManager.swift",
+      "source_location": "L32",
+      "id": "classes_lwnetworkreachabilitymanager_networkreachabilitystatus_reachableviawifi",
+      "community": 5,
+      "norm_label": "reachableviawifi"
+    },
+    {
+      "label": "Notification.Name",
+      "file_type": "code",
+      "source_file": "LWReachabilityManager_swift/Classes/LWNetworkReachabilityManager.swift",
+      "source_location": "L50",
+      "id": "classes_lwnetworkreachabilitymanager_notification_name",
+      "community": 5,
+      "norm_label": "notification.name"
+    },
+    {
+      "label": ".deinit()",
+      "file_type": "code",
+      "source_file": "LWReachabilityManager_swift/Classes/LWNetworkReachabilityManager.swift",
+      "source_location": "L169",
+      "id": "classes_lwnetworkreachabilitymanager_lwnetworkreachabilitymanager_deinit",
+      "community": 0,
+      "norm_label": ".deinit()"
+    },
+    {
+      "label": ".networkReachabilityStatus()",
+      "file_type": "code",
+      "source_file": "LWReachabilityManager_swift/Classes/LWNetworkReachabilityManager.swift",
+      "source_location": "L237",
+      "id": "classes_lwnetworkreachabilitymanager_lwnetworkreachabilitymanager_networkreachabilitystatus",
+      "community": 0,
+      "norm_label": ".networkreachabilitystatus()"
+    },
+    {
+      "label": ".notifyReachabilityStatusChange()",
+      "file_type": "code",
+      "source_file": "LWReachabilityManager_swift/Classes/LWNetworkReachabilityManager.swift",
+      "source_location": "L261",
+      "id": "classes_lwnetworkreachabilitymanager_lwnetworkreachabilitymanager_notifyreachabilitystatuschange",
+      "community": 0,
+      "norm_label": ".notifyreachabilitystatuschange()"
+    },
+    {
+      "label": "LWReachabilityUsageExamples.swift",
+      "file_type": "code",
+      "source_file": "LWReachabilityManager_swift/Classes/LWReachabilityUsageExamples.swift",
+      "source_location": "L1",
+      "id": "lwreachabilitymanager_swift_classes_lwreachabilityusageexamples_swift",
+      "community": 3,
+      "norm_label": "lwreachabilityusageexamples.swift"
+    },
+    {
+      "label": "exampleBasicUsage()",
+      "file_type": "code",
+      "source_file": "LWReachabilityManager_swift/Classes/LWReachabilityUsageExamples.swift",
+      "source_location": "L29",
+      "id": "classes_lwreachabilityusageexamples_examplebasicusage",
+      "community": 3,
+      "norm_label": "examplebasicusage()"
+    },
+    {
+      "label": "exampleDomainMonitoring()",
+      "file_type": "code",
+      "source_file": "LWReachabilityManager_swift/Classes/LWReachabilityUsageExamples.swift",
+      "source_location": "L58",
+      "id": "classes_lwreachabilityusageexamples_exampledomainmonitoring",
+      "community": 3,
+      "norm_label": "exampledomainmonitoring()"
+    },
+    {
+      "label": "exampleNotificationObserver()",
+      "file_type": "code",
+      "source_file": "LWReachabilityManager_swift/Classes/LWReachabilityUsageExamples.swift",
+      "source_location": "L69",
+      "id": "classes_lwreachabilityusageexamples_examplenotificationobserver",
+      "community": 3,
+      "norm_label": "examplenotificationobserver()"
+    },
+    {
+      "label": "ExampleSwiftUIView",
+      "file_type": "code",
+      "source_file": "LWReachabilityManager_swift/Classes/LWReachabilityUsageExamples.swift",
+      "source_location": "L92",
+      "id": "classes_lwreachabilityusageexamples_exampleswiftuiview",
+      "community": 3,
+      "norm_label": "exampleswiftuiview"
+    },
+    {
+      "label": "View",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "id": "view",
+      "community": 3,
+      "norm_label": "view"
+    },
+    {
+      "label": "ExampleViewModifier",
+      "file_type": "code",
+      "source_file": "LWReachabilityManager_swift/Classes/LWReachabilityUsageExamples.swift",
+      "source_location": "L129",
+      "id": "classes_lwreachabilityusageexamples_exampleviewmodifier",
+      "community": 3,
+      "norm_label": "exampleviewmodifier"
+    },
+    {
+      "label": "ExampleViewModel",
+      "file_type": "code",
+      "source_file": "LWReachabilityManager_swift/Classes/LWReachabilityUsageExamples.swift",
+      "source_location": "L152",
+      "id": "classes_lwreachabilityusageexamples_exampleviewmodel",
+      "community": 3,
+      "norm_label": "exampleviewmodel"
+    },
+    {
+      "label": ".init()",
+      "file_type": "code",
+      "source_file": "LWReachabilityManager_swift/Classes/LWReachabilityUsageExamples.swift",
+      "source_location": "L158",
+      "id": "classes_lwreachabilityusageexamples_exampleviewmodel_init",
+      "community": 3,
+      "norm_label": ".init()"
+    },
+    {
+      "label": ".setupObservers()",
+      "file_type": "code",
+      "source_file": "LWReachabilityManager_swift/Classes/LWReachabilityUsageExamples.swift",
+      "source_location": "L162",
+      "id": "classes_lwreachabilityusageexamples_exampleviewmodel_setupobservers",
+      "community": 3,
+      "norm_label": ".setupobservers()"
+    },
+    {
+      "label": ".deinit()",
+      "file_type": "code",
+      "source_file": "LWReachabilityManager_swift/Classes/LWReachabilityUsageExamples.swift",
+      "source_location": "L199",
+      "id": "classes_lwreachabilityusageexamples_exampleviewmodel_deinit",
+      "community": 3,
+      "norm_label": ".deinit()"
+    },
+    {
+      "label": "APIReachabilityMonitor",
+      "file_type": "code",
+      "source_file": "LWReachabilityManager_swift/Classes/LWReachabilityUsageExamples.swift",
+      "source_location": "L205",
+      "id": "classes_lwreachabilityusageexamples_apireachabilitymonitor",
+      "community": 1,
+      "norm_label": "apireachabilitymonitor"
+    },
+    {
+      "label": ".init()",
+      "file_type": "code",
+      "source_file": "LWReachabilityManager_swift/Classes/LWReachabilityUsageExamples.swift",
+      "source_location": "L211",
+      "id": "classes_lwreachabilityusageexamples_apireachabilitymonitor_init",
+      "community": 1,
+      "norm_label": ".init()"
+    },
+    {
+      "label": ".deinit()",
+      "file_type": "code",
+      "source_file": "LWReachabilityManager_swift/Classes/LWReachabilityUsageExamples.swift",
+      "source_location": "L221",
+      "id": "classes_lwreachabilityusageexamples_apireachabilitymonitor_deinit",
+      "community": 1,
+      "norm_label": ".deinit()"
+    },
+    {
+      "label": "ExampleViewController",
+      "file_type": "code",
+      "source_file": "LWReachabilityManager_swift/Classes/LWReachabilityUsageExamples.swift",
+      "source_location": "L234",
+      "id": "classes_lwreachabilityusageexamples_exampleviewcontroller",
+      "community": 6,
+      "norm_label": "exampleviewcontroller"
+    },
+    {
+      "label": "UIViewController",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "id": "uiviewcontroller",
+      "community": 6,
+      "norm_label": "uiviewcontroller"
+    },
+    {
+      "label": ".viewDidLoad()",
+      "file_type": "code",
+      "source_file": "LWReachabilityManager_swift/Classes/LWReachabilityUsageExamples.swift",
+      "source_location": "L238",
+      "id": "classes_lwreachabilityusageexamples_exampleviewcontroller_viewdidload",
+      "community": 6,
+      "norm_label": ".viewdidload()"
+    },
+    {
+      "label": ".setupUI()",
+      "file_type": "code",
+      "source_file": "LWReachabilityManager_swift/Classes/LWReachabilityUsageExamples.swift",
+      "source_location": "L245",
+      "id": "classes_lwreachabilityusageexamples_exampleviewcontroller_setupui",
+      "community": 6,
+      "norm_label": ".setupui()"
+    },
+    {
+      "label": ".setupReachability()",
+      "file_type": "code",
+      "source_file": "LWReachabilityManager_swift/Classes/LWReachabilityUsageExamples.swift",
+      "source_location": "L257",
+      "id": "classes_lwreachabilityusageexamples_exampleviewcontroller_setupreachability",
+      "community": 6,
+      "norm_label": ".setupreachability()"
+    },
+    {
+      "label": ".updateUI()",
+      "file_type": "code",
+      "source_file": "LWReachabilityManager_swift/Classes/LWReachabilityUsageExamples.swift",
+      "source_location": "L265",
+      "id": "classes_lwreachabilityusageexamples_exampleviewcontroller_updateui",
+      "community": 6,
+      "norm_label": ".updateui()"
+    },
+    {
+      "label": ".deinit()",
+      "file_type": "code",
+      "source_file": "LWReachabilityManager_swift/Classes/LWReachabilityUsageExamples.swift",
+      "source_location": "L282",
+      "id": "classes_lwreachabilityusageexamples_exampleviewcontroller_deinit",
+      "community": 6,
+      "norm_label": ".deinit()"
+    }
+  ],
+  "links": [
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/Tests/Tests.m",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "example_tests_tests_m",
+      "target": "tests_tests_tests",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/Tests/Tests.m",
+      "source_location": "L17",
+      "weight": 1.0,
+      "source": "tests_tests_tests",
+      "target": "tests_tests_tests_setup",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/Tests/Tests.m",
+      "source_location": "L23",
+      "weight": 1.0,
+      "source": "tests_tests_tests",
+      "target": "tests_tests_tests_teardown",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/Tests/Tests.m",
+      "source_location": "L29",
+      "weight": 1.0,
+      "source": "tests_tests_tests",
+      "target": "tests_tests_tests_testexample",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/LWReachabilityManager/LWAppDelegate.m",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "example_lwreachabilitymanager_lwappdelegate_m",
+      "target": "lwreachabilitymanager_lwappdelegate_lwappdelegate",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/LWReachabilityManager/LWAppDelegate.m",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "lwreachabilitymanager_lwappdelegate_lwappdelegate",
+      "target": "lwreachabilitymanager_lwappdelegate_lwappdelegate_applicationdidfinishlaunchingwithoptions",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/LWReachabilityManager/LWAppDelegate.m",
+      "source_location": "L19",
+      "weight": 1.0,
+      "source": "lwreachabilitymanager_lwappdelegate_lwappdelegate",
+      "target": "lwreachabilitymanager_lwappdelegate_lwappdelegate_applicationwillresignactive",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/LWReachabilityManager/LWAppDelegate.m",
+      "source_location": "L25",
+      "weight": 1.0,
+      "source": "lwreachabilitymanager_lwappdelegate_lwappdelegate",
+      "target": "lwreachabilitymanager_lwappdelegate_lwappdelegate_applicationdidenterbackground",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/LWReachabilityManager/LWAppDelegate.m",
+      "source_location": "L31",
+      "weight": 1.0,
+      "source": "lwreachabilitymanager_lwappdelegate_lwappdelegate",
+      "target": "lwreachabilitymanager_lwappdelegate_lwappdelegate_applicationwillenterforeground",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/LWReachabilityManager/LWAppDelegate.m",
+      "source_location": "L36",
+      "weight": 1.0,
+      "source": "lwreachabilitymanager_lwappdelegate_lwappdelegate",
+      "target": "lwreachabilitymanager_lwappdelegate_lwappdelegate_applicationdidbecomeactive",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/LWReachabilityManager/LWAppDelegate.m",
+      "source_location": "L41",
+      "weight": 1.0,
+      "source": "lwreachabilitymanager_lwappdelegate_lwappdelegate",
+      "target": "lwreachabilitymanager_lwappdelegate_lwappdelegate_applicationwillterminate",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/LWReachabilityManager/LWViewController.m",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "example_lwreachabilitymanager_lwviewcontroller_m",
+      "target": "lwreachabilitymanager_lwviewcontroller_lwviewcontroller",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/LWReachabilityManager/LWViewController.m",
+      "source_location": "L17",
+      "weight": 1.0,
+      "source": "lwreachabilitymanager_lwviewcontroller_lwviewcontroller",
+      "target": "lwreachabilitymanager_lwviewcontroller_lwviewcontroller_viewdidload",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/LWReachabilityManager/LWViewController.m",
+      "source_location": "L23",
+      "weight": 1.0,
+      "source": "lwreachabilitymanager_lwviewcontroller_lwviewcontroller",
+      "target": "lwreachabilitymanager_lwviewcontroller_lwviewcontroller_didreceivememorywarning",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWReachabilityManager/Classes/LWNetworkReachabilityManager.m",
+      "source_location": "L107",
+      "weight": 1.0,
+      "source": "lwreachabilitymanager_classes_lwnetworkreachabilitymanager_m",
+      "target": "classes_lwnetworkreachabilitymanager_lwnetworkreachabilitymanager",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWReachabilityManager/Classes/LWNetworkReachabilityManager.m",
+      "source_location": "L115",
+      "weight": 1.0,
+      "source": "classes_lwnetworkreachabilitymanager_lwnetworkreachabilitymanager",
+      "target": "classes_lwnetworkreachabilitymanager_lwnetworkreachabilitymanager_sharedmanager",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWReachabilityManager/Classes/LWNetworkReachabilityManager.m",
+      "source_location": "L125",
+      "weight": 1.0,
+      "source": "classes_lwnetworkreachabilitymanager_lwnetworkreachabilitymanager",
+      "target": "classes_lwnetworkreachabilitymanager_lwnetworkreachabilitymanager_managerfordomain",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWReachabilityManager/Classes/LWNetworkReachabilityManager.m",
+      "source_location": "L135",
+      "weight": 1.0,
+      "source": "classes_lwnetworkreachabilitymanager_lwnetworkreachabilitymanager",
+      "target": "classes_lwnetworkreachabilitymanager_lwnetworkreachabilitymanager_managerforaddress",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWReachabilityManager/Classes/LWNetworkReachabilityManager.m",
+      "source_location": "L144",
+      "weight": 1.0,
+      "source": "classes_lwnetworkreachabilitymanager_lwnetworkreachabilitymanager",
+      "target": "classes_lwnetworkreachabilitymanager_lwnetworkreachabilitymanager_manager",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWReachabilityManager/Classes/LWNetworkReachabilityManager.m",
+      "source_location": "L160",
+      "weight": 1.0,
+      "source": "classes_lwnetworkreachabilitymanager_lwnetworkreachabilitymanager",
+      "target": "classes_lwnetworkreachabilitymanager_lwnetworkreachabilitymanager_initwithreachability",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWReachabilityManager_swift/Classes/LWNetworkReachabilityManager.swift",
+      "source_location": "L165",
+      "weight": 1.0,
+      "source": "classes_lwnetworkreachabilitymanager_lwnetworkreachabilitymanager",
+      "target": "classes_lwnetworkreachabilitymanager_lwnetworkreachabilitymanager_init",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWReachabilityManager/Classes/LWNetworkReachabilityManager.m",
+      "source_location": "L177",
+      "weight": 1.0,
+      "source": "classes_lwnetworkreachabilitymanager_lwnetworkreachabilitymanager",
+      "target": "classes_lwnetworkreachabilitymanager_lwnetworkreachabilitymanager_dealloc",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWReachabilityManager/Classes/LWNetworkReachabilityManager.m",
+      "source_location": "L187",
+      "weight": 1.0,
+      "source": "classes_lwnetworkreachabilitymanager_lwnetworkreachabilitymanager",
+      "target": "classes_lwnetworkreachabilitymanager_lwnetworkreachabilitymanager_isreachable",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWReachabilityManager/Classes/LWNetworkReachabilityManager.m",
+      "source_location": "L191",
+      "weight": 1.0,
+      "source": "classes_lwnetworkreachabilitymanager_lwnetworkreachabilitymanager",
+      "target": "classes_lwnetworkreachabilitymanager_lwnetworkreachabilitymanager_isreachableviawwan",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWReachabilityManager/Classes/LWNetworkReachabilityManager.m",
+      "source_location": "L195",
+      "weight": 1.0,
+      "source": "classes_lwnetworkreachabilitymanager_lwnetworkreachabilitymanager",
+      "target": "classes_lwnetworkreachabilitymanager_lwnetworkreachabilitymanager_isreachableviawifi",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWReachabilityManager_swift/Classes/LWNetworkReachabilityManager.swift",
+      "source_location": "L176",
+      "weight": 1.0,
+      "source": "classes_lwnetworkreachabilitymanager_lwnetworkreachabilitymanager",
+      "target": "classes_lwnetworkreachabilitymanager_lwnetworkreachabilitymanager_startmonitoring",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWReachabilityManager_swift/Classes/LWNetworkReachabilityManager.swift",
+      "source_location": "L217",
+      "weight": 1.0,
+      "source": "classes_lwnetworkreachabilitymanager_lwnetworkreachabilitymanager",
+      "target": "classes_lwnetworkreachabilitymanager_lwnetworkreachabilitymanager_stopmonitoring",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWReachabilityManager_swift/Classes/LWNetworkReachabilityManager.swift",
+      "source_location": "L233",
+      "weight": 1.0,
+      "source": "classes_lwnetworkreachabilitymanager_lwnetworkreachabilitymanager",
+      "target": "classes_lwnetworkreachabilitymanager_lwnetworkreachabilitymanager_localizednetworkreachabilitystatusstring",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWReachabilityManager_swift/Classes/LWNetworkReachabilityManager.swift",
+      "source_location": "L226",
+      "weight": 1.0,
+      "source": "classes_lwnetworkreachabilitymanager_lwnetworkreachabilitymanager",
+      "target": "classes_lwnetworkreachabilitymanager_lwnetworkreachabilitymanager_setreachabilitystatuschangeblock",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWReachabilityManager/Classes/LWNetworkReachabilityManager.m",
+      "source_location": "L253",
+      "weight": 1.0,
+      "source": "classes_lwnetworkreachabilitymanager_lwnetworkreachabilitymanager",
+      "target": "classes_lwnetworkreachabilitymanager_lwnetworkreachabilitymanager_keypathsforvaluesaffectingvalueforkey",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWReachabilityManager_swift/Classes/LWNetworkReachabilityManager.swift",
+      "source_location": "L65",
+      "weight": 1.0,
+      "source": "lwreachabilitymanager_swift_classes_lwnetworkreachabilitymanager_swift",
+      "target": "classes_lwnetworkreachabilitymanager_lwnetworkreachabilitymanager",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWReachabilityManager_swift/Classes/LWNetworkReachabilityManager.swift",
+      "source_location": "L169",
+      "weight": 1.0,
+      "source": "classes_lwnetworkreachabilitymanager_lwnetworkreachabilitymanager",
+      "target": "classes_lwnetworkreachabilitymanager_lwnetworkreachabilitymanager_deinit",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWReachabilityManager_swift/Classes/LWNetworkReachabilityManager.swift",
+      "source_location": "L237",
+      "weight": 1.0,
+      "source": "classes_lwnetworkreachabilitymanager_lwnetworkreachabilitymanager",
+      "target": "classes_lwnetworkreachabilitymanager_lwnetworkreachabilitymanager_networkreachabilitystatus",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWReachabilityManager_swift/Classes/LWNetworkReachabilityManager.swift",
+      "source_location": "L261",
+      "weight": 1.0,
+      "source": "classes_lwnetworkreachabilitymanager_lwnetworkreachabilitymanager",
+      "target": "classes_lwnetworkreachabilitymanager_lwnetworkreachabilitymanager_notifyreachabilitystatuschange",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "LWReachabilityManager_swift/Classes/LWNetworkReachabilityManager.swift",
+      "source_location": "L177",
+      "weight": 1.0,
+      "source": "classes_lwnetworkreachabilitymanager_lwnetworkreachabilitymanager_startmonitoring",
+      "target": "classes_lwnetworkreachabilitymanager_lwnetworkreachabilitymanager_stopmonitoring",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "LWReachabilityManager_swift/Classes/LWNetworkReachabilityManager.swift",
+      "source_location": "L190",
+      "weight": 1.0,
+      "source": "classes_lwnetworkreachabilitymanager_lwnetworkreachabilitymanager_startmonitoring",
+      "target": "classes_lwnetworkreachabilitymanager_lwnetworkreachabilitymanager_networkreachabilitystatus",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "LWReachabilityManager_swift/Classes/LWNetworkReachabilityManager.swift",
+      "source_location": "L170",
+      "weight": 1.0,
+      "source": "classes_lwnetworkreachabilitymanager_lwnetworkreachabilitymanager_deinit",
+      "target": "classes_lwnetworkreachabilitymanager_lwnetworkreachabilitymanager_stopmonitoring",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWReachabilityManager_swift/Classes/NetworkReachabilityObserver.swift",
+      "source_location": "L49",
+      "weight": 1.0,
+      "source": "lwreachabilitymanager_swift_classes_networkreachabilityobserver_swift",
+      "target": "classes_networkreachabilityobserver_networkreachabilityobserver",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "LWReachabilityManager_swift/Classes/NetworkReachabilityObserver.swift",
+      "source_location": "L49",
+      "weight": 1.0,
+      "source": "classes_networkreachabilityobserver_networkreachabilityobserver",
+      "target": "observableobject",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWReachabilityManager_swift/Classes/NetworkReachabilityObserver.swift",
+      "source_location": "L103",
+      "weight": 1.0,
+      "source": "classes_networkreachabilityobserver_networkreachabilityobserver",
+      "target": "classes_networkreachabilityobserver_networkreachabilityobserver_init",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWReachabilityManager_swift/Classes/NetworkReachabilityObserver.swift",
+      "source_location": "L112",
+      "weight": 1.0,
+      "source": "classes_networkreachabilityobserver_networkreachabilityobserver",
+      "target": "classes_networkreachabilityobserver_networkreachabilityobserver_setupbindings",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWReachabilityManager_swift/Classes/NetworkReachabilityObserver.swift",
+      "source_location": "L144",
+      "weight": 1.0,
+      "source": "classes_networkreachabilityobserver_networkreachabilityobserver",
+      "target": "classes_networkreachabilityobserver_networkreachabilityobserver_startmonitoring",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWReachabilityManager_swift/Classes/NetworkReachabilityObserver.swift",
+      "source_location": "L149",
+      "weight": 1.0,
+      "source": "classes_networkreachabilityobserver_networkreachabilityobserver",
+      "target": "classes_networkreachabilityobserver_networkreachabilityobserver_stopmonitoring",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWReachabilityManager_swift/Classes/NetworkReachabilityObserver.swift",
+      "source_location": "L156",
+      "weight": 1.0,
+      "source": "classes_networkreachabilityobserver_networkreachabilityobserver",
+      "target": "classes_networkreachabilityobserver_networkreachabilityobserver_localizedstatusstring",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "LWReachabilityManager_swift/Classes/LWReachabilityUsageExamples.swift",
+      "source_location": "L212",
+      "weight": 1.0,
+      "source": "classes_lwreachabilityusageexamples_apireachabilitymonitor_init",
+      "target": "classes_networkreachabilityobserver_networkreachabilityobserver"
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "LWReachabilityManager_swift/Classes/LWReachabilityUsageExamples.swift",
+      "source_location": "L152",
+      "weight": 1.0,
+      "source": "classes_lwreachabilityusageexamples_exampleviewmodel",
+      "target": "observableobject",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "LWReachabilityManager_swift/Classes/LWReachabilityUsageExamples.swift",
+      "source_location": "L205",
+      "weight": 1.0,
+      "source": "classes_lwreachabilityusageexamples_apireachabilitymonitor",
+      "target": "observableobject",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "LWReachabilityManager_swift/Classes/NetworkReachabilityObserver.swift",
+      "source_location": "L107",
+      "weight": 1.0,
+      "source": "classes_networkreachabilityobserver_networkreachabilityobserver_init",
+      "target": "classes_networkreachabilityobserver_networkreachabilityobserver_setupbindings",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWReachabilityManager_swift/Classes/NetworkReachabilityView.swift",
+      "source_location": "L36",
+      "weight": 1.0,
+      "source": "lwreachabilitymanager_swift_classes_networkreachabilityview_swift",
+      "target": "classes_networkreachabilityview_networkreachabilitymodifier",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWReachabilityManager_swift/Classes/NetworkReachabilityView.swift",
+      "source_location": "L55",
+      "weight": 1.0,
+      "source": "lwreachabilitymanager_swift_classes_networkreachabilityview_swift",
+      "target": "classes_networkreachabilityview_view",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWReachabilityManager_swift/Classes/NetworkReachabilityView.swift",
+      "source_location": "L70",
+      "weight": 1.0,
+      "source": "lwreachabilitymanager_swift_classes_networkreachabilityview_swift",
+      "target": "classes_networkreachabilityview_networkreachabilitystatusview",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWReachabilityManager_swift/Classes/NetworkReachabilityView.swift",
+      "source_location": "L134",
+      "weight": 1.0,
+      "source": "lwreachabilitymanager_swift_classes_networkreachabilityview_swift",
+      "target": "classes_networkreachabilityview_detailrow",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWReachabilityManager_swift/Classes/NetworkReachabilityView.swift",
+      "source_location": "L152",
+      "weight": 1.0,
+      "source": "lwreachabilitymanager_swift_classes_networkreachabilityview_swift",
+      "target": "classes_networkreachabilityview_networkreachabilitystatusview_previews",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "LWReachabilityManager_swift/Classes/NetworkReachabilityView.swift",
+      "source_location": "L36",
+      "weight": 1.0,
+      "source": "classes_networkreachabilityview_networkreachabilitymodifier",
+      "target": "viewmodifier",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWReachabilityManager_swift/Classes/NetworkReachabilityView.swift",
+      "source_location": "L41",
+      "weight": 1.0,
+      "source": "classes_networkreachabilityview_networkreachabilitymodifier",
+      "target": "classes_networkreachabilityview_networkreachabilitymodifier_body",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "LWReachabilityManager_swift/Classes/NetworkReachabilityView.swift",
+      "source_location": "L62",
+      "weight": 1.0,
+      "source": "classes_networkreachabilityview_view_onnetworkreachabilitychange",
+      "target": "classes_networkreachabilityview_networkreachabilitymodifier",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWReachabilityManager_swift/Classes/NetworkReachabilityView.swift",
+      "source_location": "L61",
+      "weight": 1.0,
+      "source": "classes_networkreachabilityview_view",
+      "target": "classes_networkreachabilityview_view_onnetworkreachabilitychange",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "LWReachabilityManager_swift/Classes/NetworkReachabilityView.swift",
+      "source_location": "L70",
+      "weight": 1.0,
+      "source": "classes_networkreachabilityview_networkreachabilitystatusview",
+      "target": "classes_networkreachabilityview_view",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "LWReachabilityManager_swift/Classes/NetworkReachabilityView.swift",
+      "source_location": "L134",
+      "weight": 1.0,
+      "source": "classes_networkreachabilityview_detailrow",
+      "target": "classes_networkreachabilityview_view",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWReachabilityManager_swift/Classes/NetworkReachabilityView.swift",
+      "source_location": "L74",
+      "weight": 1.0,
+      "source": "classes_networkreachabilityview_networkreachabilitystatusview",
+      "target": "classes_networkreachabilityview_networkreachabilitystatusview_init",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "LWReachabilityManager_swift/Classes/NetworkReachabilityView.swift",
+      "source_location": "L152",
+      "weight": 1.0,
+      "source": "classes_networkreachabilityview_networkreachabilitystatusview_previews",
+      "target": "previewprovider",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWReachabilityManager_swift/Classes/LWNetworkReachabilityManager.swift",
+      "source_location": "L28",
+      "weight": 1.0,
+      "source": "lwreachabilitymanager_swift_classes_lwnetworkreachabilitymanager_swift",
+      "target": "classes_lwnetworkreachabilitymanager_networkreachabilitystatus",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWReachabilityManager_swift/Classes/LWNetworkReachabilityManager.swift",
+      "source_location": "L50",
+      "weight": 1.0,
+      "source": "lwreachabilitymanager_swift_classes_lwnetworkreachabilitymanager_swift",
+      "target": "classes_lwnetworkreachabilitymanager_notification_name",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "LWReachabilityManager_swift/Classes/LWNetworkReachabilityManager.swift",
+      "source_location": "L28",
+      "weight": 1.0,
+      "source": "classes_lwnetworkreachabilitymanager_networkreachabilitystatus",
+      "target": "int",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "case_of",
+      "confidence": "EXTRACTED",
+      "source_file": "LWReachabilityManager_swift/Classes/LWNetworkReachabilityManager.swift",
+      "source_location": "L29",
+      "weight": 1.0,
+      "source": "classes_lwnetworkreachabilitymanager_networkreachabilitystatus",
+      "target": "classes_lwnetworkreachabilitymanager_networkreachabilitystatus_unknown",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "case_of",
+      "confidence": "EXTRACTED",
+      "source_file": "LWReachabilityManager_swift/Classes/LWNetworkReachabilityManager.swift",
+      "source_location": "L30",
+      "weight": 1.0,
+      "source": "classes_lwnetworkreachabilitymanager_networkreachabilitystatus",
+      "target": "classes_lwnetworkreachabilitymanager_networkreachabilitystatus_notreachable",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "case_of",
+      "confidence": "EXTRACTED",
+      "source_file": "LWReachabilityManager_swift/Classes/LWNetworkReachabilityManager.swift",
+      "source_location": "L31",
+      "weight": 1.0,
+      "source": "classes_lwnetworkreachabilitymanager_networkreachabilitystatus",
+      "target": "classes_lwnetworkreachabilitymanager_networkreachabilitystatus_reachableviawwan",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "case_of",
+      "confidence": "EXTRACTED",
+      "source_file": "LWReachabilityManager_swift/Classes/LWNetworkReachabilityManager.swift",
+      "source_location": "L32",
+      "weight": 1.0,
+      "source": "classes_lwnetworkreachabilitymanager_networkreachabilitystatus",
+      "target": "classes_lwnetworkreachabilitymanager_networkreachabilitystatus_reachableviawifi",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWReachabilityManager_swift/Classes/LWReachabilityUsageExamples.swift",
+      "source_location": "L29",
+      "weight": 1.0,
+      "source": "lwreachabilitymanager_swift_classes_lwreachabilityusageexamples_swift",
+      "target": "classes_lwreachabilityusageexamples_examplebasicusage",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWReachabilityManager_swift/Classes/LWReachabilityUsageExamples.swift",
+      "source_location": "L58",
+      "weight": 1.0,
+      "source": "lwreachabilitymanager_swift_classes_lwreachabilityusageexamples_swift",
+      "target": "classes_lwreachabilityusageexamples_exampledomainmonitoring",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWReachabilityManager_swift/Classes/LWReachabilityUsageExamples.swift",
+      "source_location": "L69",
+      "weight": 1.0,
+      "source": "lwreachabilitymanager_swift_classes_lwreachabilityusageexamples_swift",
+      "target": "classes_lwreachabilityusageexamples_examplenotificationobserver",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWReachabilityManager_swift/Classes/LWReachabilityUsageExamples.swift",
+      "source_location": "L92",
+      "weight": 1.0,
+      "source": "lwreachabilitymanager_swift_classes_lwreachabilityusageexamples_swift",
+      "target": "classes_lwreachabilityusageexamples_exampleswiftuiview",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWReachabilityManager_swift/Classes/LWReachabilityUsageExamples.swift",
+      "source_location": "L129",
+      "weight": 1.0,
+      "source": "lwreachabilitymanager_swift_classes_lwreachabilityusageexamples_swift",
+      "target": "classes_lwreachabilityusageexamples_exampleviewmodifier",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWReachabilityManager_swift/Classes/LWReachabilityUsageExamples.swift",
+      "source_location": "L152",
+      "weight": 1.0,
+      "source": "lwreachabilitymanager_swift_classes_lwreachabilityusageexamples_swift",
+      "target": "classes_lwreachabilityusageexamples_exampleviewmodel",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWReachabilityManager_swift/Classes/LWReachabilityUsageExamples.swift",
+      "source_location": "L205",
+      "weight": 1.0,
+      "source": "lwreachabilitymanager_swift_classes_lwreachabilityusageexamples_swift",
+      "target": "classes_lwreachabilityusageexamples_apireachabilitymonitor",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWReachabilityManager_swift/Classes/LWReachabilityUsageExamples.swift",
+      "source_location": "L234",
+      "weight": 1.0,
+      "source": "lwreachabilitymanager_swift_classes_lwreachabilityusageexamples_swift",
+      "target": "classes_lwreachabilityusageexamples_exampleviewcontroller",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "LWReachabilityManager_swift/Classes/LWReachabilityUsageExamples.swift",
+      "source_location": "L92",
+      "weight": 1.0,
+      "source": "classes_lwreachabilityusageexamples_exampleswiftuiview",
+      "target": "view",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "LWReachabilityManager_swift/Classes/LWReachabilityUsageExamples.swift",
+      "source_location": "L129",
+      "weight": 1.0,
+      "source": "classes_lwreachabilityusageexamples_exampleviewmodifier",
+      "target": "view",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWReachabilityManager_swift/Classes/LWReachabilityUsageExamples.swift",
+      "source_location": "L158",
+      "weight": 1.0,
+      "source": "classes_lwreachabilityusageexamples_exampleviewmodel",
+      "target": "classes_lwreachabilityusageexamples_exampleviewmodel_init",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWReachabilityManager_swift/Classes/LWReachabilityUsageExamples.swift",
+      "source_location": "L162",
+      "weight": 1.0,
+      "source": "classes_lwreachabilityusageexamples_exampleviewmodel",
+      "target": "classes_lwreachabilityusageexamples_exampleviewmodel_setupobservers",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWReachabilityManager_swift/Classes/LWReachabilityUsageExamples.swift",
+      "source_location": "L199",
+      "weight": 1.0,
+      "source": "classes_lwreachabilityusageexamples_exampleviewmodel",
+      "target": "classes_lwreachabilityusageexamples_exampleviewmodel_deinit",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "LWReachabilityManager_swift/Classes/LWReachabilityUsageExamples.swift",
+      "source_location": "L159",
+      "weight": 1.0,
+      "source": "classes_lwreachabilityusageexamples_exampleviewmodel_init",
+      "target": "classes_lwreachabilityusageexamples_exampleviewmodel_setupobservers",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWReachabilityManager_swift/Classes/LWReachabilityUsageExamples.swift",
+      "source_location": "L211",
+      "weight": 1.0,
+      "source": "classes_lwreachabilityusageexamples_apireachabilitymonitor",
+      "target": "classes_lwreachabilityusageexamples_apireachabilitymonitor_init",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWReachabilityManager_swift/Classes/LWReachabilityUsageExamples.swift",
+      "source_location": "L221",
+      "weight": 1.0,
+      "source": "classes_lwreachabilityusageexamples_apireachabilitymonitor",
+      "target": "classes_lwreachabilityusageexamples_apireachabilitymonitor_deinit",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "LWReachabilityManager_swift/Classes/LWReachabilityUsageExamples.swift",
+      "source_location": "L234",
+      "weight": 1.0,
+      "source": "classes_lwreachabilityusageexamples_exampleviewcontroller",
+      "target": "uiviewcontroller",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWReachabilityManager_swift/Classes/LWReachabilityUsageExamples.swift",
+      "source_location": "L238",
+      "weight": 1.0,
+      "source": "classes_lwreachabilityusageexamples_exampleviewcontroller",
+      "target": "classes_lwreachabilityusageexamples_exampleviewcontroller_viewdidload",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWReachabilityManager_swift/Classes/LWReachabilityUsageExamples.swift",
+      "source_location": "L245",
+      "weight": 1.0,
+      "source": "classes_lwreachabilityusageexamples_exampleviewcontroller",
+      "target": "classes_lwreachabilityusageexamples_exampleviewcontroller_setupui",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWReachabilityManager_swift/Classes/LWReachabilityUsageExamples.swift",
+      "source_location": "L257",
+      "weight": 1.0,
+      "source": "classes_lwreachabilityusageexamples_exampleviewcontroller",
+      "target": "classes_lwreachabilityusageexamples_exampleviewcontroller_setupreachability",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWReachabilityManager_swift/Classes/LWReachabilityUsageExamples.swift",
+      "source_location": "L265",
+      "weight": 1.0,
+      "source": "classes_lwreachabilityusageexamples_exampleviewcontroller",
+      "target": "classes_lwreachabilityusageexamples_exampleviewcontroller_updateui",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWReachabilityManager_swift/Classes/LWReachabilityUsageExamples.swift",
+      "source_location": "L282",
+      "weight": 1.0,
+      "source": "classes_lwreachabilityusageexamples_exampleviewcontroller",
+      "target": "classes_lwreachabilityusageexamples_exampleviewcontroller_deinit",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "LWReachabilityManager_swift/Classes/LWReachabilityUsageExamples.swift",
+      "source_location": "L241",
+      "weight": 1.0,
+      "source": "classes_lwreachabilityusageexamples_exampleviewcontroller_viewdidload",
+      "target": "classes_lwreachabilityusageexamples_exampleviewcontroller_setupui",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "LWReachabilityManager_swift/Classes/LWReachabilityUsageExamples.swift",
+      "source_location": "L242",
+      "weight": 1.0,
+      "source": "classes_lwreachabilityusageexamples_exampleviewcontroller_viewdidload",
+      "target": "classes_lwreachabilityusageexamples_exampleviewcontroller_setupreachability",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "LWReachabilityManager_swift/Classes/LWReachabilityUsageExamples.swift",
+      "source_location": "L261",
+      "weight": 1.0,
+      "source": "classes_lwreachabilityusageexamples_exampleviewcontroller_setupreachability",
+      "target": "classes_lwreachabilityusageexamples_exampleviewcontroller_updateui",
+      "confidence_score": 1.0
+    }
+  ],
+  "hyperedges": []
+}
