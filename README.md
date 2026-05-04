@@ -1,5 +1,12 @@
 # LWReachabilityManager
 
+
+## graphify Knowledge Graph
+
+- Interactive graph: https://luowei.github.io/LWReachabilityManager/
+- Report: https://luowei.github.io/LWReachabilityManager/GRAPH_REPORT.md
+- Graph data: https://luowei.github.io/LWReachabilityManager/graph.json
+
 [![CI Status](https://img.shields.io/travis/luowei/LWReachabilityManager.svg?style=flat)](https://travis-ci.org/luowei/LWReachabilityManager)
 [![Version](https://img.shields.io/cocoapods/v/LWReachabilityManager.svg?style=flat)](https://cocoapods.org/pods/LWReachabilityManager)
 [![License](https://img.shields.io/cocoapods/l/LWReachabilityManager.svg?style=flat)](https://cocoapods.org/pods/LWReachabilityManager)
